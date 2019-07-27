@@ -1,0 +1,155 @@
+.pageWrap{
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+#logo{
+    color:#fff;
+    margin-bottom: 0;
+    text-align: center;
+}
+.wrap{
+    max-width:980px;
+    /*提升优先级顺序!important*/
+    margin: 0 auto ;
+}
+.Wrap img{
+    max-width: 100%;
+}
+.headerDivider {
+    float: left;
+    margin: 10px 0;
+    height: 44px;
+}
+#nav{
+    float: left;
+    background: none;
+    border:none;
+    line-height: 62px;
+}
+#nav a{
+    color:white;
+}
+#nav .ant-menu-item-selected a{
+    color:#1890ff;
+}
+.xsNav{
+    position: absolute;
+    right: 0;
+    top: 0;
+    width:auto;
+}
+.main{
+   flex:1;
+}
+.main .wrap {
+    border: 1px solid #ccc;
+    border-top: none;
+    overflow: hidden;
+}
+.indexSider{
+    border-right:1px solid #ccc;
+    padding-bottom: 9090px;
+    margin-bottom: -9090px;
+}
+#indexMenu{
+    border-right:none;
+}
+#indexMenu li {
+    transition: none;
+    margin-right: -1px;
+    text-align: center;
+}
+#indexMenu li:hover,
+#indexMenu .ant-menu-item-selected{
+    background: #e6f7ff;
+    border-color:#1890ff;
+}
+.indexList{
+    border:1px solid #ccc;
+}
+/*@media all and (max-width: 767px) {
+    #indexMenu {
+        display: flex;
+        border-bottom: 1px solid #ccc;
+    }
+    #indexMenu li{
+        margin: 0 0 -1px 0;
+        border: none;
+        flex:1;
+        border-bottom: 3px solid rgba(0,0,0,0);
+    }
+    #indexMenu li:hover,
+    #indexMenu .ant-menu-item-selected{
+        background: none;
+        border-bottom-color:#1890ff;
+    }
+    .indexList{
+        border-left: none;
+    }
+}*/
+#indexXsMenu{
+    display: flex;
+}
+#indexXsMenu li{
+    flex:1;
+    float:none;
+    text-align: center;
+}
+.indexList{
+    padding: 0 10px;
+}
+.indexList p{
+    margin: 0;
+}
+.replyList .ant-list-item-meta-avatar{
+    display: block;
+}
+.ant-list-item-action{
+    margin-left: 50px;
+}
+ .ant-list-item-meta{
+     min-width: 200px;
+    align-items: center;
+}
+.userAvatar{
+    display: block;
+    margin: 10px auto;
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+}
+.userInfo{
+    font-size: 14px;
+    line-height: 36px;
+    padding-bottom: 10px;
+}
+.userList{
+    line-height: 32px;
+}
+.userList .ant-list-item{
+    position: relative;
+}
+.userList .ant-list-item-content{
+    display: block;
+}
+.userList h4{
+    display: inline-block;
+    margin-bottom: 0;
+}
+.userList .ant-list-item *{
+    vertical-align: middle;
+}
+.userList .userName{
+    margin: 0 10px 0 5px ;
+}
+.userList time{
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+@media all and (max-width: 767px){
+    .userList h4{
+        display: block;
+    }
+}
