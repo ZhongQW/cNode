@@ -3,13 +3,10 @@
 > 使用`react`的组件组`antd`搭建，项目主要是前端部分，没有连接后台和数据库。主要为了练习react而写
 
 - 主页
-
-![1564315579851](C:\Users\钟倩文\AppData\Roaming\Typora\typora-user-images\1564315579851.png)
-
-- 教程![](C:\Users\钟倩文\AppData\Roaming\Typora\typora-user-images\1564315611640.png)
-
-- 关于![1564315628405](C:\Users\钟倩文\AppData\Roaming\Typora\typora-user-images\1564315628405.png)
-
-- 首页![1564315646831](C:\Users\钟倩文\AppData\Roaming\Typora\typora-user-images\1564315646831.png)
-
-- 个人详情![1564315670801](C:\Users\钟倩文\AppData\Roaming\Typora\typora-user-images\1564315670801.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190728201844215.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3pob25ncXdfMDA=,size_16,color_FFFFFF,t_70)
+- 教程
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190728201912399.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3pob25ncXdfMDA=,size_16,color_FFFFFF,t_70)
+- 关于
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190728201941463.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3pob25ncXdfMDA=,size_16,color_FFFFFF,t_70)
+- 个人详情
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190728201548170.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3pob25ncXdfMDA=,size_16,color_FFFFFF,t_70)
